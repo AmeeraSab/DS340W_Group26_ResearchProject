@@ -5,7 +5,7 @@
 - Nur Ameera Sabrina binti Mahadir
 - Shakshe Gupta
 
-**Extends:** Alhamadi (2025) — *Predicting Academic Performance: ML Algorithms*
+**Parent Paper**: Alhamadi (2025) — *Predicting Academic Performance: ML Algorithms*
 
 ---
 
